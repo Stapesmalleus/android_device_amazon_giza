@@ -6,7 +6,7 @@
 ro.smartvolume.config=/system/vendor/smartvolume/giza/
 
 # OTAs
-lineage.updater.uri=https://raw.githubusercontent.com/R0rt1z2/OTA/lineage-15.1/lineageos_giza.json
+lineage.updater.uri=https://raw.githubusercontent.com/Stapesmalleus/OTA/refs/heads/lineage-15.1/uri/giza.json
 
 # MediaTek
 ro.mediatek.project.path=device/amazon/giza
